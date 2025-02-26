@@ -1,0 +1,25 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                    RUBRICA                                   ║
+║                                Manuale Utente                                ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║                                                                              ║
+║                                                                              ║
+║ 5) Visualizzare i contatti della tua rubrica.                                ║
+║ ------------------------REGOLE PER LA VISUALIZZAZIONE----------------------- ║
+║    Per visualizzare la rubrica sarà possibile selezionare il criterio        ║
+║    con il quale visualizzare i contatti:                                     ║
+║    [0] --> Tutti i contatti                                                  ║
+║    [1] --> Solo i contatti preferiti                                         ║
+║    [2] --> Solo i contatti bloccati                                          ║
+║    Dopodichè potrai selezionare la pagina da visualizzare a schermo          ║
+║    qualora il numero di contatti presenti in rubrica superi i 15 contatti    ║
+║    visibili per pagina.                                                      ║
+║ ---------------------------------------------------------------------------- ║
+║                                                                              ║
+║                                                                              ║
+║                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║ Digitare 'c' per tornare indietro:                                           ║
+╚══════════════════════════════════════════════════════════════════════════════╝

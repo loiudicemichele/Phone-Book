@@ -1,0 +1,25 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                    RUBRICA                                   ║
+║                                Manuale Utente                                ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║                                                                              ║
+║                                                                              ║
+║   Benvenuto nel nostro programma per gestire la tua rubrica! Qui potrai...   ║
+║                                                                              ║
+║               1) Inserire nuovi contatti nella rubrica;                      ║
+║               2) Eliminare un contatto presente in rubrica;                  ║
+║               3) Ricercare un contatto nella rubrica;                        ║
+║               4) Ordinare la rubrica;                                        ║
+║               5) Visualizzare i contatti della tua rubrica;                  ║
+║               6) Esportare la rubrica su file;                               ║
+║               7) Importare la rubrica da file;                               ║
+║               8) Modificare un contatto presente nella rubrica.              ║
+║                                                                              ║
+║                                                                              ║
+║                                                                              ║
+║                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║ Digitare il numero corrispondente per scoprire le funzionalità della funzione║
+║ di cui vuoi saperne di più o 'e' per uscire:                                 ║
+╚══════════════════════════════════════════════════════════════════════════════╝

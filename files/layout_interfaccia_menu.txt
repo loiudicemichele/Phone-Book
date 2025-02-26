@@ -1,0 +1,25 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                    RUBRICA                                   ║
+║                              	      Menu		                       ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║			  1) Inserire Nuovo Contatto			       ║
+║									       ║
+║			  2) Eliminare Contatto Esistente                      ║
+║                                                              	               ║
+║			  3) Ricercare Contatto                                ║
+║                                                              	               ║
+║			  4) Ordinare Rubrica              	               ║
+║                                                              	               ║
+║			  5) Visualizzare Rubrica      	                       ║
+║                                                              	               ║
+║			  6) Esportare Rubrica                    	       ║
+║                                                              	               ║
+║			  7) Importare Rubrica                    	       ║
+║                                                              	               ║
+║                         8) Modifica Contatto		             	       ║
+║                                                              	               ║
+║                         9) Manuale Utente   			               ║
+║                         		               	 		       ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║ Inserire una scelta o digitare 'e' per uscire:                               ║
+╚══════════════════════════════════════════════════════════════════════════════╝

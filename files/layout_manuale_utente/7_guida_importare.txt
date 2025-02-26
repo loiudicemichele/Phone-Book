@@ -1,0 +1,25 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                    RUBRICA                                   ║
+║                                Manuale Utente                                ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║                                                                              ║
+║                                                                              ║
+║                                                                              ║
+║                                                                              ║
+║ 7) Importare la rubrica su file.                                             ║
+║ --------------------------REGOLE PER L'IMPORTAZIONE------------------------- ║
+║    Una volta scelta questa voce del menu verrà comunicato l'esito di questa  ║
+║    operazione sulla rubrica. Se non è presente nessuna rubrica salvata       ║
+║    questa operazione non verrà effettuata e sarà comunicato un messaggio di  ║
+║    errore, altrimenti la rubrica presente sul file, verrà importata.         ║
+║ ---------------------------------------------------------------------------- ║
+║                                                                              ║
+║                                                                              ║
+║                                                                              ║
+║                                                                              ║
+║                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║ Digitare 'c' per tornare indietro:                                           ║
+╚══════════════════════════════════════════════════════════════════════════════╝

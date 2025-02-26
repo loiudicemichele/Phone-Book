@@ -1,0 +1,25 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                    RUBRICA                                   ║
+║                                Manuale Utente                                ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║                                                                              ║
+║                                                                              ║
+║                                                                              ║
+║                                                                              ║
+║ 4) Ordinare la rubrica.                                                      ║
+║ ---------------------------REGOLE PER L'ORDINAMENTO------------------------- ║
+║    Basterà inserire la preferenza sul tipo di ordinamento:                   ║
+║    [1] --> Per mettere in ordine alfabetico crescente la rubrica             ║
+║    [2] --> Per mettere in ordine alfabetico decrescente la rubrica           ║
+║    Al termine verrà  comunicato se l'ordinamento è andato a buon termine     ║
+║    o stamperà un messaggio di errore in caso di problemi.                    ║
+║ ---------------------------------------------------------------------------- ║
+║                                                                              ║
+║                                                                              ║
+║                                                                              ║
+║                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║ Digitare 'c' per tornare indietro:                                           ║
+╚══════════════════════════════════════════════════════════════════════════════╝

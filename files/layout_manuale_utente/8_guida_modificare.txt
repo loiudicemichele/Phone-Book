@@ -1,0 +1,25 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                    RUBRICA                                   ║
+║                                Manuale Utente                                ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║ 8) Modificare un contatto presente nella rubrica.                            ║
+║ ---------------------------REGOLE PER LA MODIFICA--------------------------- ║
+║    Il nominativo del contatto da modificare deve avere lunghezza compresa    ║
+║    tra 1 e 20, può contenere lettere (maiuscole/minuscole), numeri, spazi e  ║
+║    simboli speciali.                                                         ║
+║    Se il contatto viene trovato, le sue info saranno visualizzate a video    ║
+║    e avrai la possibilità di scegliere quale campo modificare:               ║
+║    [1] --> Modifica il nominativo del contatto                               ║
+║    [2] --> Modifica il numero di telefono del contatto                       ║
+║    [3] --> Modifica lo stato del contatto                                    ║
+║    Se le modifiche effettuate rispettano i vincoli di correttezza            ║
+║    presenti nell'inserimento allora il contatto verrà modificato, altrimenti ║
+║    verrà segnalato l'errore.                                                 ║
+║    Se il contatto non viene trovato verrà comunicato l'errore a video.       ║
+║ ---------------------------------------------------------------------------- ║
+║                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║ Digitare 'c' per tornare indietro:                                           ║
+╚══════════════════════════════════════════════════════════════════════════════╝

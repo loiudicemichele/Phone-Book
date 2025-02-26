@@ -1,0 +1,40 @@
+Non vi sono errori.
+La lunghezza della stringa nominativo deve essere compresa fra: [1-20].
+Esiste un contatto in rubrica non formattato propriamente.
+Il numero di contatti deve essere compreso fra: [1-50].
+Il numero di telefono del contatto risulta errato.
+Lo stato del contatto deve essere uno dei seguenti: [0-1-2]
+Il nominativo del contatto risulta errato.
+Il contatto inserito è già presente in rubrica.
+Nella stringa è presente uno o più caratteri errati.
+Il contatto ricercato, non è presente in rubrica.
+Il codice di errore della rubrica risulta errato.
+Il file a cui si sta tentando di accedere non esiste; controlla il percorso.
+Il criterio di ordinamento inserito risulta errato!
+La rubrica è stata esportata con successo!
+La rubrica è vuota, non puoi salvarla!
+La rubrica è stata importata con successo!
+Errore, nell'importazione da file!
+Il contatto è stato eliminato correttamente!
+La rubrica è stata ordinata correttamente!
+La rubrica è vuota!
+Il contatto è stato modificato correttamente!
+ERRORE!
+[Predefinito]
+[Preferito]
+[Bloccato]
+Premere 'c' per continuare: 
+Digitare 'e' per uscire, 'c' per salvare e continuare con l'operazione
+'s' per salvare ed uscire dall'operazione:
+Digitare 'e' per uscire o 'c' per continuare: 
+Inserire [a] per andare avanti di pagina o [i] per andare indietro di pagina.
+Oppure 'e' per uscire. Risposta: 
+Risposta: 
+Inserire il criterio di visualizzazione: [0-Tutti]|[1-Preferiti]|[2-Bloccati]
+Sei sicuro di voler eliminare il contatto? ([c] per eliminare/[e] per uscire)
+Scegliere il criterio di ordinamento: [1-CRESCENTE]|[2-DECRESCENTE]
+Inserisci quale dei valori del contatto vuoi modificare: 
+1) Nominativo Contatto: 
+2) Numero Telefono Contatto: 
+3) Stato Contatto: 
+Il contatto è stato correttamente salvato in rubrica!

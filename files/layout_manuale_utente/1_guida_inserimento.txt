@@ -1,0 +1,25 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                    RUBRICA                                   ║
+║                                Manuale Utente                                ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║ 1) Inserire nuovi contatti nella rubrica.                                    ║
+║ --------------------------REGOLE PER L'INSERIMENTO-------------------------- ║
+║    Il nominativo del contatto deve avere lunghezza compresa tra 1 e 20, può  ║
+║    contenere lettere (maiuscole/minuscole), numeri, spazi e simboli speciali.║
+║    Non ci possono essere duplicati del nominativo nella rubrica.             ║
+║    Il numero di telefono deve essere di 10 cifre comprese tra 0 e 9.         ║
+║    Lo stato deve essere scelto tra:                                          ║
+║      [0] --> Predefinito                                                     ║
+║      [1] --> Preferito                                                       ║
+║      [2] --> Bloccato                                                        ║
+║    Una volta terminato l'inserimento potrai scegliere se proseguire con il   ║
+║    salvataggio del contatto 's' o meno 'e', ed eventualmente continuare      ║
+║    a inserire altri contatti in rubrica 'c'. Se si commettono errori che     ║
+║    violano i vincoli apparirà un messaggio di errore.                        ║
+║ ---------------------------------------------------------------------------- ║
+║                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║ Digitare 'c' per tornare indietro:                                           ║
+╚══════════════════════════════════════════════════════════════════════════════╝
